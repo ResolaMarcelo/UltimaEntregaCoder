@@ -1,0 +1,51 @@
+.row  {
+      overflow: hidden;
+
+}
+
+.redes-container {
+  display: flex;
+  height: auto;
+  align-items: center;
+  justify-content: center;
+}
+
+.redes-container ul li {
+  display: inline-block;
+  margin: 0 5px;
+  width: 50px;
+  text-align: center;
+}
+
+.redes-container a {
+  display: block;
+}
+
+.container-fluid {
+  font-size: 50%;
+}
+
+.container-fluid {
+  font-size: 100%;
+}
+
+.container-fluid {
+  font-size: 150%;
+}
+
+
+
+/* .nav-link {
+  font-size: 20px;
+}
+
+.btn-primary {
+  background: linear-gradient(-120deg, #D62121, #C72C2C, #3a1111);
+  border: none;
+}
+
+nav {
+  background: linear-gradient(-120deg, #D62121, #C72C2C, #3a1111);
+}
+
+# sourceMappingURL=style.css.map */
